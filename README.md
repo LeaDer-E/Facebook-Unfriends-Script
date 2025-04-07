@@ -1,7 +1,7 @@
 # Facebook-Unfriends-Script
 
 
-```
+```bash
 // Delay function to pause execution after each step
 function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
